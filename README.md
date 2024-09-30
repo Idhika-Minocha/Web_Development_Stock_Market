@@ -1,1 +1,1 @@
-blah blah blah
+This project aims to offer a user-friendly platform for financial analysis. The website is designed for beginners, allowing users to track stock market trends, predict stock prices, and optimize their investment portfolios. It also provides valuable resources to help users develop a foundational understanding of the stock market.
